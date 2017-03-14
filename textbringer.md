@@ -149,6 +149,15 @@ VIM::Buffer.current.line = "test"
     * 混沌を倒すには混沌の力が必要
 * Cosmic Balance
     * Vimへの転向者が多い
+
+## Emacsとの違い
+
+* redoがundoと別コマンド
+* ctags使用
+    * ripper-tagsを拡張したtbtagsコマンドを用意
+* M-*/M-?でglobal-mark-ringを前後に移動
+* 一行ずつスクロール
+    * (setq scroll-conservatively 1)相当
     
 ## バッファの内部表現
 
