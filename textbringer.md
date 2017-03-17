@@ -16,8 +16,8 @@
 
 主に使っているエディタは？
 
-1. Emacs系
-2. vi系
+1. Emacs系 (JED/xyzzyなども含む)
+2. vi系 (Vim/Neovimなども含む)
 3. それ以外
 
 ## 不満
