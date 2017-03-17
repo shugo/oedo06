@@ -313,7 +313,6 @@ class ProgrammingMode < FundamentalMode
 ## 今後の構想
 
 * バックグラウンド処理
-    * command loopでコールバック処理
 * MUA
 
 ## END
