@@ -157,7 +157,7 @@ VIM::Buffer.current.line = "test"
     * ripper-tagsを拡張したtbtagsコマンドを用意
 * M-*/M-?でglobal-mark-ringを前後に移動
 * 一行ずつスクロール
-    * (setq scroll-conservatively 1)相当
+    * (setq scroll-conservatively 1) 相当
     
 ## バッファの内部表現
 
@@ -292,11 +292,7 @@ fizzbuzz(15) # メソッドとして呼べる
 ## キーマップ定義
 
 ```ruby
-GLOBAL_MAP.define_key("\C-x\C-f", :find_file)
-GLOBAL_MAP.define_key("\C-xb", :switch_to_buffer)
-GLOBAL_MAP.define_key("\C-x\C-s", :save_buffer)
-GLOBAL_MAP.define_key("\C-x\C-w", :write_file)
-GLOBAL_MAP.define_key("\C-xk", :kill_buffer)
+GLOBAL_MAP.define_key("\C-xf", :fizzbuzz)
 ```
 
 ## モード定義
