@@ -1,6 +1,6 @@
 # Text Editing in Ruby
 
-大江戸Ruby会議06  2017/3/20
+大江戸Ruby会議06  2017-03-20
 
 
 
