@@ -182,9 +182,11 @@ VIM::Buffer.current.line = "test"
 ## UTF-8の利点
 
 * 表現できる文字が多い
+    * 𩸽/远东多线鱼/이면수어
 * 任意の位置から前後に進める
 * 拡張コードを書きやすい
     * default source encoding
+    * 様々なライブラリがUTF-8をサポート
 
 ## UTF-8の欠点
 
