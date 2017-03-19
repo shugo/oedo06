@@ -107,12 +107,13 @@ VIM::Buffer.current.line = "test"
 
 * David Coverdale said in New Musical Express:
 
-  > I wrote the lyrics about a mythical creature called
-  > Stormbringer who, in a surrealistic story, creates
-  >  a lot of trouble"; it was, he said, similar to "Burn"
-  > - the title track of the band's previous album - adding
-  > "But I never even considered Michael Moorcock's work"
-  http://www.songfacts.com/detail.php?id=14243
+> I wrote the lyrics about a mythical creature called
+> Stormbringer who, in a surrealistic story, creates
+> a lot of trouble"; it was, he said, similar to "Burn" -
+> the title track of the band's previous album - adding
+> "But I never even considered Michael Moorcock's work"
+
+http://www.songfacts.com/detail.php?id=14243
 
 ## Stormbringer by Michael Moorcock
 
