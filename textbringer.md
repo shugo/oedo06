@@ -103,16 +103,28 @@ VIM::Buffer.current.line = "test"
 
 ![Stormbringer](stormbringer.jpg)
 
-## エルリックサーガ
+## Stormbringer by Deep Purple
 
-* マイクルムアコックが書いたファンタジー小説群
-* 主人公 エルリック
-    * メルニボネの皇帝 (ルビーの玉座)
+* David Coverdale said in New Musical Express:
+
+  > I wrote the lyrics about a mythical creature called
+  > Stormbringer who, in a surrealistic story, creates
+  >  a lot of trouble"; it was, he said, similar to "Burn"
+  > - the title track of the band's previous album - adding
+  > "But I never even considered Michael Moorcock's work"
+  http://www.songfacts.com/detail.php?id=14243
+
+## Stormbringer by Michael Moorcock
+
+* Elric Saga
+    * Michael Moorcockが書いたファンタジー小説群
+* 主人公 Elric
+    * メルニボネの皇帝
     * 白子 (白髪、白い肌、赤い目) にして病弱
-    * 混沌の神アリオッホ (アリオッチ) に仕える
-* ストームブリンガー
+    * 混沌の神Ariochに仕える
+* Stormbringer
     * 黒の剣
-    * 魂を啜ってエルリックにその力を与える
+    * 魂を啜ってElricにその力を与える
 
 ## 法と混沌、そして天秤
 
