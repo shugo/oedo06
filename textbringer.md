@@ -168,7 +168,7 @@ http://www.songfacts.com/detail.php?id=14243
 * redoがundoと別コマンド
 * ctags使用
     * ripper-tagsを拡張したtbtagsコマンドを用意
-* M-*/M-?でglobal-mark-ringを前後に移動
+* M-* / M-? でglobal-mark-ringを前後に移動
 * 一行ずつスクロール
     * (setq scroll-conservatively 1) 相当
     
